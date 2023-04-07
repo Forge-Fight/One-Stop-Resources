@@ -66,3 +66,7 @@ This repository is licensed under the [MIT License](https://github.com/Forge-Fig
 ## Contact
 
 If you have any questions or comments about this repository, please feel free to open an issue or contact us at [forgefight2@gmail.com](mailto:your-forgefight2@gmail.com).
+
+## Deployed preview of the website
+
+- [Preview link](https://one-stop-resources.vercel.app/)
