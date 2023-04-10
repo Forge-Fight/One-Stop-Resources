@@ -14,6 +14,14 @@ To get started with the One-Stop Resources repository, simply browse the reposit
 - Community forums and discussion groups
 - And more!
 
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
+
 ## Repository Structure
 
 Here's a quick overview of the structure of this repository:
