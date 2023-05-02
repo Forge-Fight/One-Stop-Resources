@@ -26,6 +26,10 @@ We welcome contributions to this repository! If you have a resource that you thi
 
 This repository is licensed under the [MIT License](https://github.com/himanshu1221/One-Stop-Resources/blob/main/LICENSE).
 
+## Deployed preview of the website
+
+- [Preview link](https://one-stop-resources.vercel.app/)
+
 ## Contact
 
 If you have any questions or comments about this repository, please feel free to open an issue or contact @[Email](mailto:your-himanshuchhatwal9295@gmail.com).
