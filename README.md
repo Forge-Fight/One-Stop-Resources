@@ -1,22 +1,8 @@
-# One-Stop Resources
-
-
-<img src="" alt="Logo">
-
-
-Welcome to the One-Stop Resources repository! This repository is a curated list of resources for various topics and technologies, aimed at providing a comprehensive one-stop-shop for learning and reference. With these resources, you can save time and effort searching for information and instead focus on learning and developing your skills.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-To get started with the One-Stop Resources repository, simply browse the repository and its contents to find the resources that interest you. You can use the search functionality or the provided topics and categories to find what you need. The resources in this repository include:
-
-- Online courses and tutorials
-- Documentation and reference materials
-- Books and publications
-- Tools and utilities
-- Code examples and snippets
-- Community forums and discussion groups
-- And more!
+First, run the development server:
 
 ```bash
 npm run dev
@@ -26,59 +12,27 @@ yarn dev
 pnpm dev
 ```
 
-## Repository Structure
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Here's a quick overview of the structure of this repository:
+You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-```
-├── programming/
-│ ├── languages/
-│ │ ├── python.md
-│ │ ├── java.md
-│ │ ├── javascript.md
-│ │ └── ...
-│ ├── frameworks/
-│ │ ├── django.md
-│ │ ├── react.md
-│ │ ├── spring.md
-│ │ └── ...
-│ ├── tools/
-│ │ ├── git.md
-│ │ ├── docker.md
-│ │ ├── vim.md
-│ │ └── ...
-│ └── ...
-├── design/
-│ ├── graphics.md
-│ ├── ux.md
-│ ├── web-design.md
-│ └── ...
-├── LICENSE
-└── README.md
-```
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-- `programming/`: This directory contains resources related to programming topics, including languages, frameworks, and tools.
-- `design/`: This directory contains resources related to design topics, including graphics, UX, and web design.
-- `LICENSE`: This file contains the license under which this repository is distributed.
-- `README.md`: This file (the one you're reading now) contains information about the repository and instructions for getting started.
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Contributing
+## Learn More
 
-We welcome contributions to this repository! If you have a resource that you think would be valuable to include in this repository, please feel free to create a pull request. Before submitting a pull request, please make sure to:
+To learn more about Next.js, take a look at the following resources:
 
-- Check that the resource you're submitting is not already in the repository.
-- Follow the existing naming and file structure conventions.
-- Add a brief description and any necessary metadata for the resource.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## License
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-This repository is licensed under the [MIT License](https://github.com/Forge-Fight/One-Stop-Resources/blob/main/LICENSE).
+## Deploy on Vercel
 
-## Contact
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-If you have any questions or comments about this repository, please feel free to open an issue or contact us at [forgefight2@gmail.com](mailto:your-forgefight2@gmail.com).
-
-## Deployed preview of the website
-
-- [Preview link](https://one-stop-resources.vercel.app/)
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
